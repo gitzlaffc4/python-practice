@@ -1,3 +1,4 @@
+# https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
 def excercise_2():
     num_a = int(input("Pick a number : "))
     num_b = int(input("Pick another number : "))
