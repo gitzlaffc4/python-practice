@@ -1,5 +1,5 @@
 #https://www.practicepython.org/exercise/2014/01/29/01-character-input.html
-def excercise_1():
+def exercise_1():
     name = input("What is your name? : ")
     age = int(input("How old are you? : "))
     how_many = int(input("How many times should I introduce you? :"))
@@ -10,5 +10,5 @@ def excercise_1():
         print("Hello " + name + ", you will turn 100 years old in " + str(turn_100) + ".")
         print("")
         n += 1
-    excercise_1()
-excercise_1()
+    exercise_1()
+exercise_1()

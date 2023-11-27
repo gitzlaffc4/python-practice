@@ -4,7 +4,7 @@ import random
 import sys
 
 #define program to guess the number
-def excercise_9():
+def exercise_9():
     #generate random number
     rand = random.randint(1, 9)
     #set first guess attempt counter
@@ -19,7 +19,7 @@ def excercise_9():
             sys.exit()
         elif int(guess) not in range(1, 10):
             print("You entered an incorrect number, lets try again \n")
-            excercise_9()
+            exercise_9()
         elif int(guess) == rand:
             if guesses == 1:
                 print("Congrats you won!!! You got it right in 1 guess!\n")
@@ -44,14 +44,14 @@ def guessing(value):
         if score == 0:
             a = input("Hello " + name + ", Would you like to play a game? (Y/n) :")
             if a.casefold() in ['y','yes']:
-                score += excercise_9()
+                score += exercise_9()
             else:
                 print("goodbye\n")
                 return
         else:
             a = input("Hello " + name + ", your current score is " + str(score) + ". Would you like to keep playing? (Y/n) :")
             if a.casefold() in ['y','yes']:
-                score += excercise_9()
+                score += exercise_9()
             else:
                 print("goodbye\n")
                 return

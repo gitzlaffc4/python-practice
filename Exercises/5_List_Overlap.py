@@ -1,7 +1,7 @@
 # https://www.practicepython.org/exercise/2014/03/05/05-list-overlap.html
 import random
 #imports
-def excercise_5():
+def exercise_5():
 
     a = generate_list()
     b = generate_list()
@@ -19,4 +19,4 @@ def generate_list():
 
     return a
 
-excercise_5()
+exercise_5()
