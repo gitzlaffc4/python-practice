@@ -1,5 +1,5 @@
 # https://www.practicepython.org/exercise/2014/03/12/06-string-lists.html
-def excercise_6():
+def exercise_6():
     #get word from input
     word = input("give me a word : ")
     #reverse the word
@@ -11,4 +11,4 @@ def excercise_6():
     else:
         #if not the same, let them know
         print(word + " is NOT a Palindrome!")
-excercise_6()
+exercise_6()

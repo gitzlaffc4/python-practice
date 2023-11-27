@@ -1,5 +1,5 @@
 #https://www.practicepython.org/exercise/2014/02/15/03-list-less-than-ten.html
-def excercise_3():
+def exercise_3():
     a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
     b = []
     smaller = int(input("Find numbers less than : "))
@@ -9,4 +9,4 @@ def excercise_3():
             b.append(element)
     print(b)
 
-excercise_3()
+exercise_3()

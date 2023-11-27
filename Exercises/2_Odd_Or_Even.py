@@ -1,5 +1,5 @@
 # https://www.practicepython.org/exercise/2014/02/05/02-odd-or-even.html
-def excercise_2():
+def exercise_2():
     num_a = int(input("Pick a number : "))
     num_b = int(input("Pick another number : "))
 
@@ -11,6 +11,6 @@ def excercise_2():
         print(str(num_a) + " is not divisible by " + str(num_b) + ", but is odd")
     print("")
 
-    excercise_2()
+    exercise_2()
 
-excercise_2()
+exercise_2()
