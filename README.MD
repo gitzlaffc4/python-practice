@@ -13,7 +13,7 @@ These python scripts are being used to practice python after years of not using 
   5. [List Overlap](https://github.com/gitzlaffc4/python-practice/blob/master/5_List_Overlap.py)
   6. [String Lists](https://github.com/gitzlaffc4/python-practice/blob/master/6_String_Lists.py)
   7. [List Comprehensions](https://github.com/gitzlaffc4/python-practice/blob/master/7_List_Comprehensions.py)
-  8. [Rock Paper Scissors](https://github.com/gitzlaffc4/python-practice/blob/master/8_Rock_Paper_Scissors.py)
+  8. [Rock Paper Scissors](/Excercises/8_Rock_Paper_Scissors.py)
   9. Guessing Game One    
   10. List Overlap Comprehensions   
   11. Check Primality Functions    
