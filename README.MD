@@ -4,7 +4,7 @@
 ## Description.
 These python scripts are being used to practice python after years of not using these skills.
 
-### Resources.
+### Resources:
 - [Python Practice](https.//www.practicepython.org)
   1. [Character Input](https://github.com/gitzlaffc4/python-practice/blob/master/1_Character_Input.py)
   2. [Odd Or Even](https://github.com/gitzlaffc4/python-practice/blob/master/2_Odd_Or_Even.py)  
