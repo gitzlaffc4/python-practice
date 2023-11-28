@@ -23,7 +23,7 @@ These python files are practice python scenerios to re-engage my python skills.
 | 11 | Check Primality Functions   | [11_Check_Primality_Functions.py](/Exercises/11_Check_Primality_Functions.py)     |         
 | 12 | List Ends                   | [12_List_Ends.py](/Exercises/12_List_Ends.py)                                     |
 | 13 | Fibonacci                   | [13_Fibonacci.py](/Exercises/13_Fibonacci.py)                                     |
-| 14 | List Remove Duplicates      |                                                                                   |
+| 14 | List Remove Duplicates      | [14_List_Remove_Duplicates](Exercises/14_List_Remove_Duplicates.py)               |
 | 15 | Reverse Word Order          |                                                                                   |
 | 16 | Password Generator          |                                                                                   |
 | 17 | Decode A Web Page           |                                                                                   |
