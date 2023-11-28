@@ -21,7 +21,7 @@ These python files are practice python scenerios to re-engage my python skills.
 | 9  | Guessing Game One           | [9_guessing_Game_One.py](/Exercises/9_guessing_Game_One.py)                       |
 | 10 | List Overlap Comprehensions | [10_List_Overlap_Comprehensions.py](/Exercises/10_List_Overlap_Comprehensions.py) |
 | 11 | Check Primality Functions   | [11_Check_Primality_Functions.py](/Exercises/11_Check_Primality_Functions.py)     |         
-| 12 | List Ends                   |                                                                                   |
+| 12 | List Ends                   | [12_List_Ends.py](/Exercises/12_List_Ends.py)                                     |
 | 13 | Fibonacci                   |                                                                                   |
 | 14 | List Remove Duplicates      |                                                                                   |
 | 15 | Reverse Word Order          |                                                                                   |
